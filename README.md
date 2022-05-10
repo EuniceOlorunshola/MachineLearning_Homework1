@@ -1,5 +1,5 @@
 # MachineLearning Course Homework 1 
-As a grad student last year , worked individually to complete this assignment 
+As a grad student took this course last year worked individually to complete this assignment. 
 
 # Instructions on Assignment 
 Write a Python script that calculates approximations of an image using Singular Value Decomposition. The input image is available at
